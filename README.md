@@ -39,13 +39,13 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 ### Screenshots
 
-![首页](https://user-images.githubusercontent.com/23615778/62509203-da358580-b83c-11e9-97b3-367fb06a8347.png)
+![首页]()
 
-![歌单列表](https://user-images.githubusercontent.com/23615778/62509204-dace1c00-b83c-11e9-8d3f-0bcb93e3aab7.png)
+![歌单列表]()
 
-![歌单详情](https://user-images.githubusercontent.com/23615778/62509201-d99cef00-b83c-11e9-8e4b-b122b8b94468.png)
+![歌单详情]()
 
-![音乐播放](https://user-images.githubusercontent.com/23615778/62509202-da358580-b83c-11e9-98e1-530e5741ff56.png)
+![音乐播放]()
 
 ### 安装与使用
 
