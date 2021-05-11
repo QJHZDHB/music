@@ -39,9 +39,13 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 ### Screenshots
 
-![首页]()
+![首页](![Uploading QQ截图20210511175633.png…]()
 
-![歌单列表]()
+)
+
+![歌单列表](![Uploading QQ截图20210511175711.png…]()
+
+)
 
 ![歌单详情]()
 
