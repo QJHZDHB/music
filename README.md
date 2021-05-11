@@ -58,4 +58,4 @@ npm run dev
 
 ### 友情链接
 
-[mmPlayer](https://github.com/maomao1996/Vue-mmPlayer)
+[mmPlayer](https://github.com/)
