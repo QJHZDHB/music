@@ -1,10 +1,8 @@
-# 🎵 基于 Vue2、Vue-CLI3 的高仿网易云 mac 客户端播放器（PC） Online Music Player
+#  基于 Vue2、Vue-CLI3 的高仿网易云 
 
-音乐播放器虽然烂大街了，但是作为前端没自己撸一个一直是个遗憾。
+本人很喜欢音乐，所以仿了一个音乐网站。
 
-偶然间发现 PC 端 Web 版的网易云音乐做的实在是太简陋了，社区仿 PC 客户端的网易云也不多见。
-
-为了弥补这个遗憾，就用 Vue 全家桶模仿 mac 客户端的 UI 实现了一个，欢迎提出意见和 star🌟~
+用 Vue 全家桶模仿 mac 客户端的 UI 实现了一个，欢迎提出宝贵意见。
 
 💐[预览地址](https://ssh-music.vercel.app)
 
@@ -58,4 +56,4 @@ npm run dev
 
 ### 友情链接
 
-[mmPlayer](https://github.com/)
+[github](https://github.com/)
