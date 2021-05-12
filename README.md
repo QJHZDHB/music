@@ -41,16 +41,10 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 ![首页]![QQ截图20210511175633](https://user-images.githubusercontent.com/73093510/117906181-0120c580-b307-11eb-9ffd-a1efc97df4cc.png)
 
+![歌单列表]!![QQ截图20210511175711](https://user-images.githubusercontent.com/73093510/117907639-b6547d00-b309-11eb-8641-0f0fdfa24a89.png)
 
-)
+![音乐播放]!![QQ截图20210512100439](https://user-images.githubusercontent.com/73093510/117907709-d2581e80-b309-11eb-9be7-317e163b83ac.png)
 
-![歌单列表]
-
-)
-
-![歌单详情]
-
-![音乐播放]()
 
 ### 安装与使用
 
